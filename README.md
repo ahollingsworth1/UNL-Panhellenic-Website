@@ -22,3 +22,10 @@
 3. Start the backend server by running the command node server.js
 
 It is okay to run the backend in main if you are making frontend changes that need the backend to run. However, if you are working on the backend code make sure to work in a separate branch then main.
+
+# To Run Locally:
+Run these two commands to the terminal
+
+
+    cd client
+    npm install
